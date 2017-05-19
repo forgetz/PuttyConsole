@@ -1,0 +1,6 @@
+D:\Projects\PuttyConsole\PuttyConsole\bin\Debug\PuttyConsole.exe
+D:\Projects\PuttyConsole\PuttyConsole\bin\Debug\PuttyConsole.pdb
+D:\Projects\PuttyConsole\PuttyConsole\bin\Debug\Renci.SshNet.dll
+D:\Projects\PuttyConsole\PuttyConsole\obj\Debug\PuttyConsole.csprojResolveAssemblyReference.cache
+D:\Projects\PuttyConsole\PuttyConsole\obj\Debug\PuttyConsole.exe
+D:\Projects\PuttyConsole\PuttyConsole\obj\Debug\PuttyConsole.pdb
